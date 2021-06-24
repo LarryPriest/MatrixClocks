@@ -1,0 +1,20 @@
+[01;34m.[00m
+├── [01;34mbmps[00m
+├── [01;32mcode.py[00m
+├── [01;34meyes[00m
+├── [01;34mfonts[00m
+├── [01;32mHelloweenCountdown.py[00m
+├── IBMPlexMono-Medium-24_jep.bdf
+├── [01;34mlib[00m
+├── LICENSE
+├── [01;32mmetro_matrix_clock.py[00m
+├── [01;32mMonsterEyes.py[00m
+├── [01;34mmoon[00m
+├── [01;32mMoonClock.py[00m
+├── [01;32mQuoteBoard.py[00m
+├── README.md
+├── [01;32mScrollingClock.py[00m
+├── [01;32msecrets.py[00m
+└── tree.txt
+
+5 directories, 12 files
